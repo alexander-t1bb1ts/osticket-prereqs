@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/pZ5M0bB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the above picture, I'm enabling IIS so i will be able to host osTicket on Windows.
+In the above picture, I'm enabling IIS so I will be able to host osTicket on Windows.
 </p>
 <br />
 
@@ -45,7 +45,7 @@ Here i'm installing a server for our future database for osTicket.
 <img src="https://i.imgur.com/Nn11Jxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now i'm installing/configuring osTicket.
+I am now setting up and installing osTicket.
 </p>
 <br />
 
@@ -53,7 +53,7 @@ Now i'm installing/configuring osTicket.
 <img src="https://i.imgur.com/wy9yJOQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I've enabled osTicket to fetch & process email.
+Email processing and retrieval have been enabled for osTicket.
 </p>
 <br />
 
@@ -61,7 +61,7 @@ I've enabled osTicket to fetch & process email.
 <img src="https://i.imgur.com/PKaBUNZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-osTicket database has been created!
+The osTicket database is now available!
 </p>
 <br />
 
