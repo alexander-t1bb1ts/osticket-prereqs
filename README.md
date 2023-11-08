@@ -61,15 +61,12 @@ Email processing and retrieval have been enabled for osTicket.
 <img src="https://i.imgur.com/PKaBUNZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The osTicket database is now available!
+The osTicket database is now available.
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/fPRGNNx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-osTicket installation is now complete!
 </p>
 <br />
 
